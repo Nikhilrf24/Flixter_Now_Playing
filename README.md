@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/27730208/194681412-9bf0342f-9f24-41c6-a234-df564ec6969b.gif)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/27730208/194681412-9bf0342f-9f24-41c6-a234-df564ec6969b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
